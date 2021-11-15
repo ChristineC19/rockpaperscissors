@@ -1,0 +1,43 @@
+<body>
+  <style>
+    body {
+      text-align: center;
+    }
+h1 {color: Green; 
+	text-align: center;
+	font-family: Script; bold;
+}
+
+h2 {color: Blue; 
+	text-align: center;
+	font-family: Georgia;
+}
+    .container {
+        margin: 0 auto;
+        border-radius: 15px;
+        padding: 20px 60px;
+        width: 40vw;
+    }
+    .userChoice {
+      max-width: 800px;
+      padding: 40px 0;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-evenly;
+      border-radius: 20px;
+    }
+    .options {
+      flex: 1 1 40%;
+      border-width: 2px;
+      border-style: solid;
+      border-color: rgba(0, 0, 0, 0.7);
+      padding: 10px;
+      width: 100%;
+      max-width: 120px;
+    }
+    
+  </style>
+
+
